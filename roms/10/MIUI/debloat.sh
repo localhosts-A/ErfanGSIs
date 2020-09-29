@@ -14,7 +14,6 @@ rm -rf $1/app/Traceur
 rm -rf $1/app/BasicDreams
 rm -rf $1/app/CatchLog
 rm -rf $1/app/greenguard
-rm -rf $1/app/Joyose
 rm -rf $1/app/mab
 rm -rf $1/app/HybridAccessory
 rm -rf $1/app/HybridPlatform
@@ -32,7 +31,6 @@ rm -rf $1/app/PrintRecommendationService
 rm -rf $1/app/PrintSpooler
 rm -rf $1/app/SensorTestTool
 rm -rf $1/app/YouDaoEngine
-rm -rf $1/priv-app/MiuiCamera
 rm -rf $1/priv-app/MiuiVideo
 rm -rf $1/priv-app/MiGameCenterSDKService
 rm -rf $1/priv-app/BackupRestoreConfirmation
@@ -50,30 +48,17 @@ rm -rf $1/data-app/XMPass
 rm -rf $1/app/AiAsstVision
 rm -rf $1/app/BookmarkProvider
 rm -rf $1/app/BuiltInPrintService
-rm -rf $1/app/CameraTools
 rm -rf $1/app/CarrierDefaultApp
 rm -rf $1/app/CompanionDeviceManager
 rm -rf $1/app/HTMLViewer
-rm -rf $1/app/MiuiAudioMonitor
 rm -rf $1/app/MiuiDaemon
 rm -rf $1/app/Stk
-rm -rf $1/app/VsimCore
 rm -rf $1/app/WapiCertManage
 rm -rf $1/app/WAPPushManager
 rm -rf $1/priv-app/beyondGeofenceService
-rm -rf $1/priv-app/BlockedNumberProvider
 rm -rf $1/priv-app/DynamicSystemInstallationService
 rm -rf $1/priv-app/LocalTransport
-rm -rf $1/priv-app/MusicFx
 rm -rf $1/priv-app/Ons
 rm -rf $1/priv-app/MiRcs
-rm -rf $1/priv-app/StatementService
-rm -rf $1/priv-app/Tag
-rm -rf $1/priv-app/UserDictionaryProvide
-rm -rf $1/data-app/com.Qunar_18
-rm -rf $1/data-app/com.taobao.taobao_24
-rm -rf $1/data-app/com.xunmeng.pinduoduo_19
-rm -rf $1/data-app/MiMobileNoti
-
 
 # do nothing
