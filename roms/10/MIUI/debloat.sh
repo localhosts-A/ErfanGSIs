@@ -33,8 +33,6 @@ rm -rf $1/app/SensorTestTool
 rm -rf $1/app/YouDaoEngine
 rm -rf $1/priv-app/MiuiVideo
 rm -rf $1/priv-app/MiGameCenterSDKService
-rm -rf $1/priv-app/BackupRestoreConfirmation
-rm -rf $1/priv-app/Backup
 rm -rf $1/priv-app/Calendar
 rm -rf $1/priv-app/NewHome
 rm -rf $1/priv-app/QuickSearchBox
