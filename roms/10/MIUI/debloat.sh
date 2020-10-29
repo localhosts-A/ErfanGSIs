@@ -51,5 +51,8 @@ rm -rf $1/priv-app/DynamicSystemInstallationService
 rm -rf $1/priv-app/LocalTransport
 rm -rf $1/priv-app/Ons
 rm -rf $1/priv-app/MiRcs
+rm -rf $1/priv-app/Music
+rm -rf $1/priv-app/MusicFX
+rm -rf $1/priv-app/MiuiCamera
 
 # do nothing
