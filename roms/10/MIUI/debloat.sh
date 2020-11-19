@@ -7,6 +7,8 @@ rm -rf $1/app/FidoAuthen
 rm -rf $1/app/FidoClient
 rm -rf $1/app/MiuiBugReport
 rm -rf $1/app/MSA
+rm -rf $1/app/GFManager
+rm -rf $1/app/GFTest
 rm -rf $1/app/FrequentPhrase
 rm -rf $1/app/Traceur
 rm -rf $1/app/BasicDreams
@@ -74,6 +76,7 @@ rm -rf $1/priv-app/Music
 rm -rf $1/priv-app/StatementService
 rm -rf $1/priv-app/Tag
 rm -rf $1/priv-app/UserDictionaryProvide
+rm -rf $1/priv-app/PersonalAssistant
 
 
 # do nothing
