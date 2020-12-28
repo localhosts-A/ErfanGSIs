@@ -44,8 +44,6 @@ rm -rf $1/data-app/MiLiveAssistant
 rm -rf $1/data-app/MiMobileNoti
 rm -rf $1/data-app/SmartTravel
 rm -rf $1/data-app/Userguide
-rm -rf $1/data-app/VipAccount
-rm -rf $1/data-app/VirtualSim
 rm -rf $1/data-app/XiaoAiSpeechEngine
 rm -rf $1/data-app/XMRemoteController
 rm -rf $1/app/AiAsstVision
@@ -65,8 +63,6 @@ rm -rf $1/priv-app/DynamicSystemInstallationService
 rm -rf $1/priv-app/LocalTransport
 rm -rf $1/priv-app/MusicFx
 rm -rf $1/priv-app/Ons
-rm -rf $1/priv-app/MiRcs
-rm -rf $1/priv-app/Music
 rm -rf $1/priv-app/StatementService
 rm -rf $1/priv-app/Tag
 rm -rf $1/priv-app/UserDictionaryProvide
